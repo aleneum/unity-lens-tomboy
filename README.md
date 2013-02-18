@@ -5,6 +5,7 @@ Searching your Tomboy nodes with the Ubuntu Unity dash.
 
 * status: 0.1.1 (alpha)
 * tested with: Ubuntu 12.10.
+* requires: python tomboy
 
 Installation Instructions
 -------------------------
