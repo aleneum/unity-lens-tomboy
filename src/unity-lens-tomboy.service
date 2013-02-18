@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.github.aleneum.Tomboy
+Exec=/usr/share/unity/lenses/tomboy/unity-lens-tomboy

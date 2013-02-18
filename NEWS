@@ -1,3 +1,10 @@
+2013-02-18: unity-lens-tomboy 0.1.1
+---------------------------------
+
+* removed vala code and autoconf
+* merged with python example from David Calle
+* created install/uninstall script
+
 2011-11-09: unity-lens-tomboy 0.1
 ---------------------------------
 

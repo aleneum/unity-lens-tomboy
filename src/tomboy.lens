@@ -1,6 +1,6 @@
 [Lens]
-DBusName=com.github.rrerolle.Tomboy
-DBusPath=/com/github/rrerolle/Tomboy
+DBusName=com.github.aleneum.Tomboy
+DBusPath=/com/github/aleneum/Tomboy
 Name=Tomboy
 Icon=/usr/share/app-install/icons/tomboy.png
 Description=Easily find Tomboy notes

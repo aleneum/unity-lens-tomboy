@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=com.github.rrerolle.Tomboy
-Exec=/usr/lib/unity-lens-tomboy/unity-tomboy-daemon
