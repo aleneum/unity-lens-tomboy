@@ -22,8 +22,9 @@ Execute install.sh (and enter sudo password when prompted. Do NOT execute as roo
 Option B:  
 Copy the files manually (use sudo, if required):
 
-	sudo cp src/tomboy.lens $path
- 	sudo cp src/unity-lens-tomboy $path
+	sudo mkdir /usr/share/unity/lenses/tomboy
+	sudo cp src/tomboy.lens /usr/share/unity/lenses/tomboy
+ 	sudo cp src/unity-lens-tomboy /usr/share/unity/lenses/tomboy
  	sudo cp src/unity-lens-tomboy.service /usr/share/dbus-1/services/
 
 And restart unity:
